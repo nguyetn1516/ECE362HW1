@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <time.h>
 #include "Queue.h"
-
+// Hello
 /* function generates a random value between 2 values */
 int Rand(int MIN, int MAX )
 {
